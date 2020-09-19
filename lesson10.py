@@ -1,0 +1,2 @@
+a = "DŨNG"
+print(a)
